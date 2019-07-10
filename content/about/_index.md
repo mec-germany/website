@@ -1,11 +1,15 @@
 +++
-title = "About MEC-Germany"
+title = "About MEC Germany"
 date = "2019-07-09"
 +++
 
-### Vision & Mission
+### Vision
 
-The Malaysian Engineering Community (MEC) started as a group of engineers who wanted to connect malaysian engineers who share a common goal to drive technology transfer by empowering them through knowledge and skills fusion.
+Empowering Malaysian engineers through knowledge and skills fusion.
+
+### Mission
+
+Connecting Malaysian engineers in Germany who share a common goal to drive technology transfer.
 
 ### Objectives
 
