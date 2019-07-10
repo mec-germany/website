@@ -1,8 +1,8 @@
 +++
-author = "Hugo Future Imperfect Slim"
+author = "Alang"
 categories = ["Markdown"]
-date = "2019-01-01"
-description = "Markdown and Shortcode Examples"
+date = "2019-07-09"
+description = "Learn Markdown to be a better Writer!"
 featured = ""
 featuredalt = ""
 featuredpath = ""
@@ -12,24 +12,13 @@ type = "post"
 
 +++
 
-# Thanks!
 Special thanks to [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+#### What is Markdown
+Markdown is a plain text formatting syntax for writers. It allows you to quickly write structured content for the web, and have it seamlessly converted to clean, structured HTML.
 
 ---
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-Alt-H1
-======
-
-Alt-H2
-------
-
 ```
 # H1
 ## H2
@@ -44,6 +33,19 @@ Alt-H1
 Alt-H2
 ------
 ```
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+Alt-H1
+======
+
+Alt-H2
+------
 
 ---
 
