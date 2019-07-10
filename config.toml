@@ -1,13 +1,13 @@
-baseurl                 = "https://example.com/"
+baseurl                 = "https://mec-germany.netlify.com"
 DefaultContentLanguage  = "en"
-title                   = "MEC - Germany"
+title                   = "MEC Germany"
 theme                   = "future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
-disableLanguages        = [""]
+disableLanguages        = ["br"]
 
 [params]
   # Loads CSS and JavaScript files. The variable is an array so that you can load
@@ -50,8 +50,8 @@ disableLanguages        = [""]
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
-    shareMenu           = true
-    languageMenu        = true
+    #shareMenu           = true
+    #languageMenu        = true
 
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
@@ -64,11 +64,11 @@ disableLanguages        = [""]
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
-      src                 = "/img/main/logo.jpg"
+      src                 = "/images/mec-logo.jpg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
-      width               = ""
-      alt                 = "add logo!"
+      width               = "100px"
+      alt                 = "MEC Germany"
 
   [params.sidebar]
     about               = "what is MEC?"
