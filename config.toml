@@ -14,6 +14,8 @@ disableLanguages        = ["br"]
   # multiple/additional files if necessary. The standard theme files can be loaded
   # by adding the value, "default". Default includes the add-on.css and and-on.js.
   # Example: ["default", "/path/to/file"]
+  author                = "MEC Germany"
+  description           = "Malaysian Engineering Community. Empowering the engineers of tomorrow."
   cssFiles              = ["default"]
   jsFiles               = ["default"]
   # Sets options for highlight.js
