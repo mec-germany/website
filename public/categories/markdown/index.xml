@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on MEC Germany</title>
-    <link>/categories/markdown/</link>
+    <link>https://mec-germany.netlify.com/categories/markdown/</link>
     <description>Recent content in Markdown on MEC Germany</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mec-germany.netlify.com/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Markdown and Shortcodes</title>
-      <link>/blog/markdown-and-shortcodes/</link>
+      <link>https://mec-germany.netlify.com/blog/markdown-and-shortcodes/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/markdown-and-shortcodes/</guid>
+      <guid>https://mec-germany.netlify.com/blog/markdown-and-shortcodes/</guid>
       <description>Special thanks to Markdown Cheatsheet.
 What is Markdown Markdown is a plain text formatting syntax for writers. It allows you to quickly write structured content for the web, and have it seamlessly converted to clean, structured HTML.
 # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 Alt-H1 ====== Alt-H2 ------  H1 H2 H3 H4 H5 H6 Alt-H1 Alt-H2 Emphasis, aka italics, with asterisks or underscores.</description>

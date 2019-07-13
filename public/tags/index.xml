@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MEC Germany</title>
-    <link>/tags/</link>
+    <link>https://mec-germany.netlify.com/tags/</link>
     <description>Recent content in Tags on MEC Germany</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mec-germany.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>career</title>
-      <link>/tags/career/</link>
+      <link>https://mec-germany.netlify.com/tags/career/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/career/</guid>
+      <guid>https://mec-germany.netlify.com/tags/career/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projectengineer</title>
-      <link>/tags/projectengineer/</link>
+      <link>https://mec-germany.netlify.com/tags/projectengineer/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/projectengineer/</guid>
+      <guid>https://mec-germany.netlify.com/tags/projectengineer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>worklife</title>
-      <link>/tags/worklife/</link>
+      <link>https://mec-germany.netlify.com/tags/worklife/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/worklife/</guid>
+      <guid>https://mec-germany.netlify.com/tags/worklife/</guid>
       <description></description>
     </item>
     
