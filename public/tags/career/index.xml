@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MEC Germany</title>
-    <link>https://mec-germany.netlify.com/</link>
-    <description>Recent content on MEC Germany</description>
+    <title>career on MEC Germany</title>
+    <link>https://mec-germany.netlify.com/tags/career/</link>
+    <description>Recent content in career on MEC Germany</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mec-germany.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mec-germany.netlify.com/tags/career/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,17 +18,6 @@
       
       <guid>https://mec-germany.netlify.com/blog/wig-project-engineer-at-deiring-gmbh/</guid>
       <description>12 July 2019 marked my last day at Deiring GmbH as a project engineer. Deiring GmbH is a small size company in Wertheim, Germany. It main business is automation project. Having served this company for just a little over 9 months allows me to experience project engineer life and understand deeply a good project engineer personal traits. As the name suggest, project engineer execute project to meet customer requirements. Simply to say it is the kind of engineer that make sure the project is done.</description>
-    </item>
-    
-    <item>
-      <title>Markdown and Shortcodes</title>
-      <link>https://mec-germany.netlify.com/blog/markdown-and-shortcodes/</link>
-      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mec-germany.netlify.com/blog/markdown-and-shortcodes/</guid>
-      <description>Special thanks to Markdown Cheatsheet.
-What is Markdown Markdown is a plain text formatting syntax for writers. It allows you to quickly write structured content for the web, and have it seamlessly converted to clean, structured HTML.
-# H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 Alt-H1 ====== Alt-H2 ------  H1 H2 H3 H4 H5 H6 Alt-H1 Alt-H2 Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
   </channel>
