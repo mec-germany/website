@@ -1,4 +1,4 @@
-baseurl                 = "/"
+baseurl                 = "https://mec-germany.netlify.com/"
 DefaultContentLanguage  = "en"
 title                   = "MEC Germany"
 theme                   = "future-imperfect-slim"
