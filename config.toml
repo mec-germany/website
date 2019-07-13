@@ -31,9 +31,9 @@ disableLanguages        = ["br"]
 
   [params.meta]
     # Sets the meta tag description
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    description         = "Malaysian Engineering Community. Empowering the engineers of tomorrow."
     # Sets the meta tag author
-    author              = "HTML5UP and Hugo"
+    author              = "MEC Germany"
     # If you would like to add more comprehensive favicon support passed root
     # directory favicon.ico, utlize this funtion. It is recommened to use
     # https://realfavicongenerator.net to generate your icons as that is the basis
@@ -71,7 +71,7 @@ disableLanguages        = ["br"]
       alt                 = "MEC Germany"
 
   [params.sidebar]
-    about               = "what is MEC?"
+    about               = "What is MEC?"
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar
