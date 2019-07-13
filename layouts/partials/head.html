@@ -27,3 +27,4 @@
   {{ .Scratch.Set "Title" .Title }}
   {{ .Scratch.Set "Author" .Author }}
 </head>
+<meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
