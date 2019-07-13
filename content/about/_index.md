@@ -19,4 +19,3 @@ Our purpose in founding MEC for our members was to:
 * Support professional development of working engineers and provide resources and guidance to students and young engineers.
 * Share beneficial latest trend and news related to engineering.
 
-Thanks for reading!
