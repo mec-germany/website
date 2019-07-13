@@ -14,8 +14,6 @@ disableLanguages        = [""]
   # multiple/additional files if necessary. The standard theme files can be loaded
   # by adding the value, "default". Default includes the add-on.css and and-on.js.
   # Example: ["default", "/path/to/file"]
-  author                = "MEC Germany"
-  description           = "Malaysian Engineering Community. Empowering the engineers of tomorrow."
   cssFiles              = ["default"]
   jsFiles               = ["default"]
   # Sets options for highlight.js
@@ -52,8 +50,8 @@ disableLanguages        = [""]
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
-    #shareMenu           = true
-    #languageMenu        = true
+    #shareMenu          = true
+    #languageMenu       = true
 
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
@@ -120,7 +118,7 @@ disableLanguages        = [""]
     name              = "About"
     url               = "/about/"
     identifier        = "far fa-id-card"
-    weight            = 2
+    weight            = 5
 
   [[menu.main]]
     name              = "Blog"
@@ -132,7 +130,7 @@ disableLanguages        = [""]
     name              = "Categories"
     url               = "/categories/"
     identifier        = "fas fa-sitemap"
-    weight            = 5
+    weight            = 4
 
   [[menu.main]]
     name              = "Contact"
@@ -153,48 +151,48 @@ disableLanguages        = [""]
 [social]
   # Coding Communities
   github                = "pacollins/hugo-future-imperfect-slim"
-  gitlab                = ""
-  stackoverflow         = "" # User Number
-  bitbucket             = ""
-  jsfiddle              = ""
-  codepen               = ""
+  #gitlab               = ""
+  #stackoverflow        = "" # User Number
+  #bitbucket            = ""
+  #jsfiddle             = ""
+  #codepen              = ""
   # Visual Art Communities
-  deviantart            = ""
-  flickr                = "example"
-  behance               = ""
-  dribbble              = ""
+  #deviantart           = ""
+  #flickr               = "example"
+  #behance              = ""
+  #dribbble             = ""
   # Publishing Communities
-  wordpress             = ""
+  #wordpress            = ""
   medium                = ""
   # Professional/Business Oriented Communities
   linkedin              = "example"
   linkedin_company      = "examplebusiness"
-  foursquare            = ""
-  xing                  = ""
-  slideshare            = ""
+  #foursquare           = ""
+  #xing                 = ""
+  #slideshare           = ""
   # Social Networks
   facebook              = "example"
-  googleplus            = ""
+  #googleplus           = ""
   reddit                = "example"
-  quora                 = ""
+  #quora                = ""
   youtube               = ""
   vimeo                 = ""
   whatsapp              = "" # WhatsApp Number
     # WeChat and QQ need testing.
-    wechat              = ""
-    qq                  = "" # User ID Number
+    #wechat             = ""
+    #qq                 = "" # User ID Number
   instagram             = "example"
-  tumblr                = ""
+  #tumblr               = ""
   twitter               = "example"
-  skype                 = ""
-  snapchat              = ""
-  pinterest             = "example"
+  #skype                = ""
+  #snapchat             = ""
+  #pinterest            = "example"
   telegram              = "example"
-  vine                  = ""
-  googlescholar         = ""
-  orcid                 = ""
-  researchgate          = "example"
-  keybase               = "example"
+  #vine                 = ""
+  #googlescholar        = ""
+  #orcid                = ""
+  #researchgate         = "example"
+  #keybase              = "example"
   mastodon              = "example.com/@example"
   # Email
   email                 = "example"
