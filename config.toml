@@ -26,8 +26,7 @@ disableLanguages        = [""]
   readingTime           = true
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
-  socialShare           = ["twitter", "facebook", "reddit", "linkedin",
-                          "pinterest", "email"]
+  socialShare           = ["twitter", "facebook", "reddit", "linkedin", "email"]
 
   [params.meta]
     # Sets the meta tag description
@@ -58,8 +57,8 @@ disableLanguages        = [""]
   [params.intro]
     header                = "Malaysian Engineering Community"
     paragraph             = "Empowering the Engineers of Tomorrow"
-    rssIntro              = true
-    socialIntro           = true
+    rssIntro              = false
+    socialIntro           = false
 
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
@@ -81,9 +80,9 @@ disableLanguages        = [""]
 
   [params.footer]
     # Sets RSS icons to appear on the sidebar with the social media buttons
-    rssFooter           = true
+    rssFooter           = false
     # Sets Social Media icons to appear on the sidebar
-    socialFooter        = true
+    socialFooter        = false
 
   # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
   # due to its ease of use. Feel free to check out both and decide which you would
