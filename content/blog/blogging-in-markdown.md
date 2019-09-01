@@ -37,7 +37,7 @@ bulleted list:
 Emphasis, aka italics, with *asterisks* or _underscores_.
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
 Combined emphasis with **asterisks and _underscores_**.
-Strike-through uses two tildes. ~~Scratch this.~~
+Strikethrough uses two tildes. ~~Scratch this.~~
 
 [I'm an inline-style link of google.com.](https://www.google.com)
 
@@ -59,7 +59,7 @@ Colons can be used to align columns.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-> Blockquotes are very handy in email to emulate reply text.
+> Blockquotes are very handy in an email to emulate reply text.
 > This line is part of the same quote.
 ```
 
@@ -118,8 +118,6 @@ Colons can be used to align columns.
 
 
 
-> Blockquotes are very handy in email to emulate reply text.
+> Blockquotes are very handy in an email to emulate reply text.
 > This line is part of the same quote.
-
----
 
