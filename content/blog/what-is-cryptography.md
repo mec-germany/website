@@ -3,7 +3,7 @@ author = "Alang"
 categories = ["Security"]
 tags = ["cryptography"]
 date = "2018-11-25"
-description = "what is cryptography?"
+description = "What is cryptography?"
 featured = ""
 featuredalt = ""
 featuredpath = ""
@@ -13,7 +13,7 @@ type = "post"
 
 +++
 
-cryptography is the algorithmic method of providing security of information.
+Cryptography is the algorithmic method of providing security of information.
 
 | Cryptographic Goal         | Description                                                  | Algorithm                                                    |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
