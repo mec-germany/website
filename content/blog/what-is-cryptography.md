@@ -15,7 +15,16 @@ type = "post"
 
 cryptography is the algorithmic method of providing security of information.
 
-<u>history of modern cryptography</u>
+| Cryptographic Goal         | Description                                                  | Algorithm                                                    |
+| -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| privacy or confidentiality | keeping information secret from unauthorized parties to see it | encryption and keys (AES, RSA/ECC)                           |
+| integrity                  | guarding against improper information modification           | hash (SHA-2, SHA-3)                                          |
+| authenticity               | the property of being genuine and being able to be verified  | digital signature and message authentication (CMAC, HMAC, ECDSA) |
+| non-repudiation            | preventing the denial of previous commitments                | digital signature (ECDSA)                                    |
+
+
+
+##### History of modern cryptography
 
 `1976`
 :    Diffie and Hellman published concept public-key cryptography and provided an ingenious method for key exchange based on the intractability of the discrete logarithm problem
@@ -34,31 +43,3 @@ cryptography is the algorithmic method of providing security of information.
 
 `1994`
 :    US gov. adopted Digital Signature Standard based on ElGamal public-key scheme
-
-<table>
-  <tr>
-    <th>cryptographic goal</th>
-    <th>description</th>
-    <th>cryptographic algorithm</th>
-  </tr>
-  <tr>
-    <th>privacy or<br>confidentiality</th>
-    <td>keeping information secret from unauthorized parties to see it</td>
-    <td>encryption and keys (AES, RSA/ECC)</td>
-  </tr>
-  <tr>
-    <th>integrity</th>
-    <td>guarding against improper information modification</td>
-    <td>hash (SHA-2, SHA-3)</td>
-  </tr>
-  <tr>
-    <th>authenticity</th>
-    <td>the property of being genuine and being able to be verified</td>
-    <td>digital signature and message authentication (CMAC, HMAC, ECDSA)</td>
-  </tr>
-  <tr>
-    <th>non-repudiation</th>
-    <td>preventing the denial of previous commitments</td>
-    <td>digital signature (ECDSA)</td>
-  </tr>
-</table>
