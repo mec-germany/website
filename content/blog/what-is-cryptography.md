@@ -15,7 +15,7 @@ type = "post"
 
 Cryptography is the algorithmic method of providing security of information.
 
-| Cryptographic Goal         | Description                                                  | Algorithm                                                    |
+| Goal                       | Description                                                  | Algorithm                                                    |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | privacy or confidentiality | keeping information secret from unauthorized parties to see it | encryption and keys (AES, RSA/ECC)                           |
 | integrity                  | guarding against improper information modification           | hash (SHA-2, SHA-3)                                          |
